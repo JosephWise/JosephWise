@@ -1,7 +1,5 @@
-### Hi there, I'm JosephWise
+### Hi there, I'm JosephWise! I am new to Git and GitHub, but I am excited to learn!
 
 <!--
 **JosephWise/JosephWise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 
-🌱 I’m currently learning the basics of git and GitHub
 -->
